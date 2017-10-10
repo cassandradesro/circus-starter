@@ -20,7 +20,7 @@
     "type": "git",
     "url": "git+https://github.com/chrissilich/circus-starter.git"
   },
-  "author": "Chris Silich",
+  "author": "Cassandra Desrosiers",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/chrissilich/circus-starter/issues"
